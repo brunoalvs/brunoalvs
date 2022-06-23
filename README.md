@@ -2,8 +2,8 @@
 
 A brazilian **Front End Engineer** based in Porto, Portugal.
 
-I'm focus on web development and design product page, I am passionate about creating digital products with attention to visual aspects and user experience.
+I'm focused on web development and design product page, I am passionate about creating digital products with attention to visual aspects and user experience.
 
-Actually, I'm working mostly with React, Next, TypeScript and occasionally I take the time to practice some Python code or build something fun with JavaScript or that I feel like playing with right away.
+I'm currently working mostly with React, Next, TypeScript and occasionally I take time to practice some Python code, build something fun with JavaScript or another thing that I feel like doing it.
 
 [![My Website](https://img.shields.io/badge/My%20website-brunoalves.app-green?style=flat-square&logo=chrome)](https://brunoalves.app)
