@@ -2,7 +2,7 @@
 
 A brazilian **Front End Engineer** based in Porto, Portugal.
 
-I'm focused on web development and design product page, I am passionate about creating digital products with attention to visual aspects and user experience.
+I'm focused on web development and I am passionate about creating digital products with attention to visual aspects and user experience.
 
 I'm currently working mostly with React, Next, TypeScript and occasionally I take time to practice some Python code, build something fun with JavaScript or another thing that I feel like doing it.
 
